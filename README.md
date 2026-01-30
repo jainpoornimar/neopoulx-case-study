@@ -33,3 +33,10 @@ Production-grade poultry management platform used by real businesses to manage d
 ## 📌 Notes
 > Source code is not shared due to company confidentiality.
 > This repository serves as a professional case study of my contributions.
+
+
+## 📸 Screenshots
+
+![Production Report](Screenshots/neopoulx.in_plreport.png)
+![Employee Role View](Screenshots/neopoulx.in_role_employee.png)
+
